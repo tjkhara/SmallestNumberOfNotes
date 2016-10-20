@@ -1,0 +1,6 @@
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SmallestNumberOfNotes\SmallestNumberOfNotes\bin\Debug\SmallestNumberOfNotes.exe.config
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SmallestNumberOfNotes\SmallestNumberOfNotes\bin\Debug\SmallestNumberOfNotes.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SmallestNumberOfNotes\SmallestNumberOfNotes\bin\Debug\SmallestNumberOfNotes.pdb
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SmallestNumberOfNotes\SmallestNumberOfNotes\obj\Debug\SmallestNumberOfNotes.csprojResolveAssemblyReference.cache
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SmallestNumberOfNotes\SmallestNumberOfNotes\obj\Debug\SmallestNumberOfNotes.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SmallestNumberOfNotes\SmallestNumberOfNotes\obj\Debug\SmallestNumberOfNotes.pdb
